@@ -1,0 +1,6 @@
+OnnxObjectDetection/obj/*
+OnnxObjectDetectionApp/obj/*
+.vs/*
+OnnxObjectDetection/bin/*
+OnnxObjectDetectionWeb/bin/*
+OnnxObjectDetectionWeb/ImagesTemp/*
